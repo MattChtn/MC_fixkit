@@ -15,6 +15,7 @@ Ce script est mon tout premier script, il est possible que vous rencontriez des 
 ox_lib
 ox_target
 ox_inventory
+es_extended
 
 ## Comment ajouter l'item ?:
 Voir `.HOW_TO_ADD_ITEM.md` dans `[ITEM]`
