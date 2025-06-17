@@ -42,6 +42,7 @@ This is my first script. You may encounter errors. If you encounter any problem,
 ox_lib
 ox_target
 ox_inventory
+es_extended
 
 ## How to add the item ?:
 Look `.HOW_TO_ADD_ITEM.md` in `[ITEM]`
