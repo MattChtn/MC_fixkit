@@ -3,6 +3,6 @@
 	weight = 500,
 	stack = true,
 	client = {
-        	event = "MC_fixkit:fixcar"
+        	event = "MC_fixkit:fixcaritem"
 	},
 },
