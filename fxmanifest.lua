@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 author 'MattChtn'
-description 'Simple car fix kit'
+description 'Un simple script de réparation de véhicule | A simple vehicle repair script'
 
 files {
 	'locales/*.json'
