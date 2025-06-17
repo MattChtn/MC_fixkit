@@ -1,0 +1,8 @@
+[fixkit] = {
+	label = 'Kit de réparation',
+	weight = 500,
+	stack = true,
+	client = {
+        	event = "MC_fixkit:fixcar"
+	},
+},
