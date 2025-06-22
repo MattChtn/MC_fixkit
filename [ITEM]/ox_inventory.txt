@@ -1,4 +1,4 @@
-[fixkit] = {
+['fixkit'] = {
 	label = 'Kit de réparation',
 	weight = 500,
 	stack = true,
